@@ -1,0 +1,10 @@
+2022-09-19 13:37:02,163 - Mike - DEBUG - doubler function executing
+2022-09-19 13:37:02,163 - George - DEBUG - doubler function executing
+2022-09-19 13:37:02,163 - Mike - DEBUG - doubler function ended with: 0
+2022-09-19 13:37:02,164 - George - DEBUG - doubler function ended with: 2
+2022-09-19 13:37:02,164 - Wanda - DEBUG - doubler function executing
+2022-09-19 13:37:02,165 - Wanda - DEBUG - doubler function ended with: 4
+2022-09-19 13:37:02,165 - Dingbat - DEBUG - doubler function executing
+2022-09-19 13:37:02,165 - Dingbat - DEBUG - doubler function ended with: 6
+2022-09-19 13:37:02,165 - Nina - DEBUG - doubler function executing
+2022-09-19 13:37:02,166 - Nina - DEBUG - doubler function ended with: 8
